@@ -1,8 +1,8 @@
 
 html,
 body {
-  height:100%;
-     background: url('../img/frontPage/sand-white.jpg') no-repeat center center fixed;
+	height:100%;
+    background: url('../img/frontPage/sand-white.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -27,7 +27,6 @@ body {
 	height:100%;
 }
 
-
 .tagline-divider {
     margin: 15px auto 3px;
     max-width: 250px;
@@ -40,13 +39,6 @@ body {
     padding: 15px 15px;
     background: #fff;
     background: rgba(255,255,255,0.5);
-}
-
-
-.img-border {
-    float: none;
-    margin: 0 auto 0;
-    border: #999999 solid 1px;
 }
 
 .img-left {
@@ -78,14 +70,6 @@ body {
 		display:block;
 	}
 	
-	.box {
-    margin-bottom: 20px;
-    padding: 15px 15px;
-    background: #fff;
-    background: rgba(255,255,255,0.5);
-	}
-
-
     .navbar {
         border-radius: 0;
 
