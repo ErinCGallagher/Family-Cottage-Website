@@ -11,13 +11,13 @@ body {
 
 
 .top-banner {
-	position:relative;
-	overflow:hidden;
-	height:29%;
-	width:80%
-	padding-bottom: 1%;
+		position:relative;
+		overflow:hidden;
+		height:150px;
+		width:80%
+		padding-bottom: 1%;
 
-}
+	}
 
 .banner {
 	margin-left:auto;
@@ -75,6 +75,14 @@ body {
 
 @media screen and (min-width:768px) {
 
+	.top-banner {
+		position:relative;
+		overflow:hidden;
+		height:150px;
+		width:80%
+		padding-bottom: 1%;
+
+	}
 	
 	.img-responsive {
 		display:block;
@@ -121,7 +129,17 @@ body {
 	}
 }
 @media screen and (min-width:1200px) {
-    .box:after {
+    
+	.top-banner {
+		position:relative;
+		overflow:hidden;
+		height:150px;
+		width:80%
+		padding-bottom: 1%;
+
+	}
+	
+	.box:after {
         content: '';
         display: table;
         clear: both;
